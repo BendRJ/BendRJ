@@ -5,7 +5,7 @@ I enjoy working across the data stack — from efficient ETL jobs to experimenti
 and I’m always curious about emerging technologies and data-driven design.
 
 ---
-- ⚙️ Currently working with FastAPI, PostgreSQL, and Streamlit
-- 🧠 Exploring Vector Databases
+- ⚙️ Currently working with FastAPI, PostgreSQL, and MCPs and Agentic Frameworks
+- 🧠 Exploring Vector Databases, uv
 - 🧰 Favorite tools: Python, SQL, Docker, GitHub Actions, VS Code
 - 🌱 Always learning — especially in the fields of AI, data engineering, and system design
