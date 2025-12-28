@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Joerg (or George)
 
 I’m an **analytics engineer** passionate about building scalable and elegant solutions.  
-I enjoy working across the data stack — from efficient ETL jobs to experimenting with APIs —  
-and I’m always curious about emerging technologies and data-driven design.
+I enjoy working across the entire data stack — from efficient ETL jobs to experimenting with APIs —  
+and I’m always curious about emerging technologies, data-driven design and automation.
 
 ---
 - ⚙️ Currently working with FastAPI, PostgreSQL, and MCPs and Agentic Frameworks
