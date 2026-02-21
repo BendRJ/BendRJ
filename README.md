@@ -6,6 +6,6 @@ and I’m always curious about emerging technologies, data-driven design and aut
 
 ---
 - Currently working with FastAPI, PostgreSQL, and MCPs and Agentic Frameworks
-- Exploring Vector Databases, uv
+- Exploring Vector Databases, uv, Embeddings
 - Favorite tools: Python, SQL, Docker, GitHub Actions, VS Code
 - Always learning — especially in the fields of AI, data engineering, and system design
