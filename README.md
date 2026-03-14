@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Joerg (or George)
 
-I’m an **analytics engineer** passionate about building scalable and elegant solutions.  
+I’m an **analytics engineer** passionate about building scalable solutions.  
 I enjoy working across the entire data stack — from efficient ETL jobs to experimenting with APIs —  
 and I’m always curious about emerging technologies, data-driven design and automation.
 
